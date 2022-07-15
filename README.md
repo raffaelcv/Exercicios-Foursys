@@ -1,1 +1,1 @@
-# Exercicios-Foursys
+# Exercicios-Logica-Foursys
